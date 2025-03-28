@@ -1,18 +1,13 @@
 # Login ReqRes
 
 ## Overview
-This project is a simple login authentication system using the ReqRes API. It allows users to enter their credentials and receive a response indicating whether the login was successful or not. This project is built using **HTML, CSS, and JavaScript**.
+This project is a simple login authentication system using the ReqRes API. It allows users to enter their credentials and receive a response indicating whether the login was successful or not. This project is built using **React.js**.
 
 ## Features
 - User authentication using the [ReqRes API](https://reqres.in/)
 - Validates user credentials
 - Displays success or failure messages
 - Simple and responsive UI
-
-## Technologies Used
-- **HTML**: Structuring the web page
-- **CSS**: Styling the UI
-- **JavaScript**: Handling API requests and responses
 
 ## Live Demo
 [Login ReqRes](https://login-users-reqres.netlify.app/)
@@ -57,7 +52,6 @@ This project is a simple login authentication system using the ReqRes API. It al
 ## Author
 [Kopperla Vishnu Vardhan Reddy](https://github.com/vishnukvvr)
 
-## License
-This project is licensed under the MIT License.
+
 
 
